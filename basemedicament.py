@@ -76,7 +76,7 @@ def verifbdmedicament():
         t.close()
 
 
-hostname = "172.20.10.3"
-username = "theo"
-password = "Haribo04"
+hostname = "ip"
+username = "username"
+password = "password"
 port = 22
